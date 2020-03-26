@@ -27,7 +27,7 @@ public class Person {
 
 Suppose that the members of your social networking application are stored in a `List<Person>` instance.
 
-### Approach 1: Create Methods That Search for Members That Match One Characteristic
+### Approach 1: Create Methods That Search for Person That Match One Characteristic
 One simplistic approach is to create several methods; each method searches for members that match one characteristic, such as gender or age. The following method prints members that are older than a specified age:
 
 ```
